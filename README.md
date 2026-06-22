@@ -1,13 +1,13 @@
 ## Hi👋, I am Rakshit.
 <p align="left">
+  <a href="mailto:rakshitverma034@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/rakshit-verma-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Rakshit73192526" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:rakshitverma034@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -26,9 +26,10 @@ Since August 2024, I have been actively competing and engaging with the tech com
 | Category | Count | Highlight |
 | :--- | :---: | :--- |
 | **🥇 Wins** | **2** | Secured 1st place in a **Hackathon** & 3rd in an **Inter College Tech Quiz**. |
+| **💼 Internships** | **1** | Gained professional experience in Web Development. |
+| **📖 Tech Certifications** | **3** | Oracle and NPTEL Certifications. |
 | **🚀 Competitions** | **6** | Active participant in diverse technical competitions. |
-| **🎟️ Events** | **2** | Bitcoin India Tour 2024 & Google Cloud Community Day 2025. |
-| **💼 Internships** | **1** | Gained professional experience in Web Designing and Wix Studio. |
+| **🎟️ Events** | **10+** | Varying online and offline events |
 
 ---
 
