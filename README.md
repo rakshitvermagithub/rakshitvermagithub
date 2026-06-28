@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I am a Computer Science Engineering student passionate about **Software Development** and experienced in building small scale **Web Applications**. I am currently expanding my expertise in **Full-stack Development** and exploring emerging technologies. I also hold a good foundation in **C/C++** and **DSA**.
+I am a Computer Science Engineering student passionate about **Software Development** and experienced in building **Web Applications**. I am currently working on my regular problem solving skills by practicing DSA problems along learning to develop produciton grade softwares.
 
 * 🔭 **Currently working on:** [Note Mind](https://github.com/rakshitvermagithub/note-mind) to learn building production grade **RAG** applications for a real world usecase and [SODECA-Exam](https://github.com/rakshitvermagithub/SODECA-Exam), a client level project to be used by **1000+ users**.
 * 💼 **Experience:** Completed a **Web Development Internship** at a startup.
