@@ -11,9 +11,9 @@
   </a>
 </p>
 
-I am a Computer Science Engineering student passionate about **Software Development** and experienced in building **Web Applications**. I am currently working on my regular problem solving skills by practicing DSA problems along learning to develop produciton grade softwares.
+I am a Computer Science Engineering student passionate about **Software Development** and experienced in building **Web Applications**. I enjoy regularly problem solving by practicing DSA problems alonside learning to develop produciton grade softwares.
 
-* 🔭 **Currently working on:** [Note Mind](https://github.com/rakshitvermagithub/note-mind) to learn building production grade **RAG** applications for a real world usecase and [SODECA-Exam](https://github.com/rakshitvermagithub/SODECA-Exam), a client level project to be used by **1000+ users**.
+* 🔭 **Currently developing:** [Note Mind](https://github.com/rakshitvermagithub/note-mind) to learn building production grade **RAG** applications for a real world usecase and [SODECA-Exam](https://github.com/rakshitvermagithub/SODECA-Exam), a client level project to be used by **1000+ users**.
 * 💼 **Experience:** Completed a **Web Development Internship** at a startup.
 * 🎥 **Others:** When I am not coding, I like to create content for businesses.
 
